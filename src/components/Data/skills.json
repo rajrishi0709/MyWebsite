@@ -1,0 +1,33 @@
+[
+
+{
+    "title": "HTML",
+    "imageSrc": "/skills/html.png"
+},
+
+{
+    "title": "CSS",
+    "imageSrc": "css.png"
+},
+
+{
+    "title": "Figma",
+    "imageSrc": "css.png"
+},
+
+{
+    "title": "MySQL",
+    "imageSrc": "css.png"
+},
+
+{
+    "title": "React",
+    "imageSrc": "css.png"
+},
+
+{
+    "title": "Node",
+    "imageSrc": "css.png"
+}
+
+]
