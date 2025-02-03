@@ -52,15 +52,18 @@
 
 import React from "react";
 import styles from './Skills.module.css'
-import skills from '../Data/skills.json'
-import { getImageUrl } from "../../utils";
+import skills from '../Data/skills.json';
+
+// import { getImageUrl } from "../../utils";
 // import image from '../../assets/skills'
 
 export const Skills = () => {
 
     // console.log("Hii");
     // console.log(skills.imageSrc);
-    console.log(getImageUrl);
+    // console.log(getImageUrl);
+
+    
     return (
         <section className={styles.container}>
             <div className={styles.title}>SKILLS</div>
@@ -71,7 +74,7 @@ export const Skills = () => {
                             <div key={id} className={styles.skill}>
                                 <div className={styles.skillImageContainer}> 
                                     
-                                    <img src={getImageUrl(skill.imageSrc)} alt={skill.title}/>
+                                    <img src={skill.imageSrc} alt={skill.title}/>
                                 </div>
                                 <p>{skill.title}</p>
                             </div>

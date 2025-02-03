@@ -1,33 +1,35 @@
+
+
 [
 
 {
     "title": "HTML",
-    "imageSrc": "/skills/html.png"
+    "imageSrc": "/assets/skills/html.png"
 },
 
 {
     "title": "CSS",
-    "imageSrc": "css.png"
+    "imageSrc": "/assets/skills/css.png"
 },
 
 {
     "title": "Figma",
-    "imageSrc": "css.png"
+    "imageSrc": "/assets/skills/figma.png"
 },
 
 {
     "title": "MySQL",
-    "imageSrc": "css.png"
+    "imageSrc": "/assets/skills/mysql.png"
 },
 
 {
     "title": "React",
-    "imageSrc": "css.png"
+    "imageSrc": "/assets/skills/react.png"
 },
 
 {
     "title": "Node",
-    "imageSrc": "css.png"
+    "imageSrc": "/assets/skills/node.png"
 }
 
 ]

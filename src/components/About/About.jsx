@@ -6,7 +6,7 @@ import ui from '../../../public/assets/about/uiIcon.png'
 
 export const About = () => {
   return (
-    <section className={styles.container}>
+    <section className={styles.container} id='about'>
         <div className={styles.title}>ABOUT</div>
         <div className={styles.content}>
             
